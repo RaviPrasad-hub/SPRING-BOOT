@@ -1,0 +1,7 @@
+package com.coconut.springweb.healthchecks;
+
+import org.springframework.boot.actuate.health.HealthIndicator;
+
+public class CustomHealthIndicator implements HealthIndicator {
+
+}
